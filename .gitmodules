@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/image-ps"]
+	path = app/src/main/cpp/image-ps
+	url = git@github.com:NikoConn/image-ps.git
